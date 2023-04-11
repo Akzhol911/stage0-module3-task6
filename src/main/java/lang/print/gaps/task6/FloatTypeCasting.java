@@ -6,5 +6,6 @@ public class FloatTypeCasting {
         numberToBeRounded = (int)numberToBeRounded;
         System.out.println(numberToBeRounded);
 
+
     }
 }
